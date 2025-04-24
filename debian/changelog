@@ -1,8 +1,8 @@
-golang-1.24 (1.24.2-1+pexip25u1) pexip; urgency=medium
+golang-1.24 (1.24.2-1+pexip24u1) pexip; urgency=medium
 
   * Prepare Pexip packaging
 
- -- Mark Hymers <mark.hymers@pexip.com>  Thu, 10 Apr 2025 12:16:49 +0000
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 24 Apr 2025 13:24:56 +0000
 
 golang-1.24 (1.24.2-1) unstable; urgency=medium
 
