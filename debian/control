@@ -3,7 +3,6 @@
 #
 
 Source: golang-1.24
-Maintainer: Pexip AS <packaging@pexip.com>
 XSBC-Pexip-Original-Maintainer: Debian Go Compiler Team <team+go-compiler@tracker.debian.org>
 XSBC-Pexip-Original-Uploaders: Michael Stapelberg <stapelberg@debian.org>,
            Paul Tagliamonte <paultag@debian.org>,
